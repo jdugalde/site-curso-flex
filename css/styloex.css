@@ -1,0 +1,45 @@
+
+p {
+    padding: 20px;
+  }
+  div.card {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    align-items: center;
+  }
+ .top {
+   padding: 12px;
+ }
+ #divBusca{
+  background-color:#E0EEEE;
+  border:solid 2px #5F9EA0;
+  border-radius:10px;
+  width:300px;
+  height:32px;
+}
+ 
+#txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:5px; 
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:220px;
+}
+ 
+#btnBusca{
+  border:none;
+  float:left;
+  height:28px;
+  border-radius:0 5px 8px 0;
+  width:76px;
+  font-weight:bold;
+  background:#5F9EA0;
+}
+body {
+  position: relative;
+}

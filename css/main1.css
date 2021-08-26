@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(184, 202, 214);
+} 
+.paragrafo-rosa {
+    font-size: 20px;
+    color: blue;
+    font-family: 'Righteous', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.paragrafo-rosa:hover {
+    color: black;
+    font-family: 'Righteous', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.paragrafo-azul:hover {
+    font-size: 14px;
+    color: black;
+    font-family: 'Righteous', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+}
